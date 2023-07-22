@@ -1,6 +1,6 @@
 # findId Usage
 ```
-$ go install github.com/yamato0211/findId
+$ go install github.com/yamato0211/findId/cmd/findId@latest
 ```
 
 ```
